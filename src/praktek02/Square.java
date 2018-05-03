@@ -5,6 +5,11 @@ public class Square {
     public Square() {
         Sisi = 5;
     }
+
+    public Square(double Sisi) {
+        this.Sisi = Sisi;
+    }
+    
     
     void cetakifo(){
         System.out.println("===========");

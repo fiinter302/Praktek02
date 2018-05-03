@@ -7,6 +7,12 @@ public class SquareAksi {
         R1.cetakifo();
         System.out.println("Luas Square+"+R1.hitungLuas());
         R1.cetakLuas();
+        
+        Square R2 = new Square();
+        R2.cetakifo();
+        
+        Square R3 = new Square (50);
+        R3.cetakifo();
     }
     
 }
