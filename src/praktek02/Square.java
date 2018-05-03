@@ -1,6 +1,10 @@
 package praktek02;
 public class Square {
     double Sisi;
+
+    public Square() {
+        Sisi = 5;
+    }
     
     void cetakifo(){
         System.out.println("===========");
