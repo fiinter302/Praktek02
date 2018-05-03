@@ -7,4 +7,9 @@ public class Square {
         System.out.println("Sisi+ "+Sisi);
         System.out.println("===========");
     }
+       double hitungLuas(){
+           double Luas;
+           Luas=Sisi*Sisi;
+           return Luas;
+       }
 }

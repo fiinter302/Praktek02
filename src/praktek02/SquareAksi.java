@@ -5,6 +5,7 @@ public class SquareAksi {
         R1.Sisi = 7;
         
         R1.cetakifo();
+        System.out.println("Luas Square+"+R1.hitungLuas());
     }
     
 }
