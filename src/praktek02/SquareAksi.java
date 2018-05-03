@@ -6,6 +6,7 @@ public class SquareAksi {
         
         R1.cetakifo();
         System.out.println("Luas Square+"+R1.hitungLuas());
+        R1.cetakLuas();
     }
     
 }

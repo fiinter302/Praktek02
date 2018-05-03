@@ -12,4 +12,7 @@ public class Square {
            Luas=Sisi*Sisi;
            return Luas;
        }
+       void cetakLuas(){
+           System.out.println("Luas Persegi adalan :"+hitungLuas());
+       }
 }
